@@ -1,4 +1,4 @@
-# Creating a new Recipe
+# Creating a new recipe
 
 ![](../.gitbook/assets/brewfather.png)
 

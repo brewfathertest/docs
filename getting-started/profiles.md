@@ -1,2 +1,2 @@
-# Profiles
+# Setting up your equipment profile
 
