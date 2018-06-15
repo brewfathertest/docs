@@ -1,4 +1,4 @@
-# Initial page
+# Frequently Asked Questions \(FAQ\)
 
 ## Can I become who I want to be?
 
