@@ -1,4 +1,4 @@
-# Frequently Asked Questions \(FAQ\)
+# FAQ
 
 ## Where do i report bugs or feature request?
 
