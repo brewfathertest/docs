@@ -5,5 +5,6 @@
   * [Creating a new recipe](getting-started/recipe.md)
   * [Your first batch](getting-started/batch.md)
   * [Setting up your equipment profile](getting-started/equipment-profile.md)
+  * [Introduction videos](getting-started/videos.md)
 * [FAQ](faq.md)
 
