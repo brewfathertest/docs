@@ -57,5 +57,3 @@ All payments and credit card details are handeled securely by [Stripe](https://w
 
 Brewfather is made by Thomas Gangsøy from Norway, professional developer, and brewer at heart!
 
-
-
