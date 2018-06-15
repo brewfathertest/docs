@@ -19,10 +19,10 @@ Brewfather includes
 * **Print** your recipe or batch to PDF
 * Import and export **BeerXML**
 * Metric and US/Imperial units
-* Scale recipes up/down
-* Easily share recipes
+* **Scale** recipes up/down
+* Easily **share** recipes
 * Estimate your Final Gravity based on many variables
-* Calculate every important detail of your recipes and batches
+* **Calculate** every important detail of your recipes and batches
 * Easy to use yeast amount and yeast starter calculator
 * Integrated **water adjustment calculator**
 * And **many more** tools and features to help your brewing!
@@ -31,7 +31,9 @@ Brewfather includes
 
 Brewfather believes designing your recipes and tracking your batches should be easy and fun with easy access from all your devices with no hassle.
 
+{% hint style="info" %}
 Brewfather strives to cover all your brewing needs in one place, new features are added continuously, [get in touch](https://bitbucket.org/brewfather/brewfather) if you miss any features or find any issues!
+{% endhint %}
 
 #### Home-Screen App Support {#home-screen-app-support}
 
@@ -39,7 +41,7 @@ Brewfather can be added to your homescreen on Android and iOS devices to give yo
 
 #### Free to try as long as you want! {#free-to-try-as-long-as-you-want-}
 
-Brewfather can be **used for free as long as you want** with only a few limitations. New users are granted a free 24-day membership of Brewfather Premium with no limitations.
+Brewfather can be **used for free as long as you want** with a few limitations. New users are granted a free 24-day membership of Brewfather Premium with no limitations.
 
 Any of the tools and calculators can be used for free with no limitations as long as you want.
 
