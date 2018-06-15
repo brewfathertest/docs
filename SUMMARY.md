@@ -7,4 +7,5 @@
   * [Setting up your equipment profile](getting-started/equipment-profile.md)
   * [Introduction videos](getting-started/videos.md)
 * [FAQ](faq.md)
+* [Changelog](changelog.md)
 
