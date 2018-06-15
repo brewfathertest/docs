@@ -1,5 +1,5 @@
 ---
-description: 'Brewfather: Fully-featured app for your brewing needs'
+description: Fully-featured app for your brewing needs
 ---
 
 # What is Brewfather?
