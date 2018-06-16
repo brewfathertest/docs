@@ -9,7 +9,7 @@
 * [Recipes](recipes/README.md)
   * [Overview](recipes/overview.md)
   * [Designer](recipes/designer.md)
-  * [Water Adjustments](recipes/water-adjustments.md)
+  * [Water Calculator](recipes/water.md)
 * [Batches](batches/README.md)
   * [Overview](batches/overview.md)
   * [Planning](batches/planning.md)
