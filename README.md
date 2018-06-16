@@ -4,7 +4,7 @@ description: Fully-featured app for your brewing needs
 
 # What is Brewfather?
 
-[Launch Brewfather APP](http://web.brewfather.app)   
+[Launch Brewfather APP](http://web.brewfather.app)  
 [Go to Brewfather Main Page](http://brewfather.app)
 
 Brewfather is made from the groud up to give you **the best** recipe design and brewing experience on both **desktop and mobile** devices. With a **modern design** that is easy to use. Get your recipes done in no time! With **automatically synchronisation** between your devices and **offline** support.
@@ -30,7 +30,7 @@ Brewfather includes
 * Integrated **water adjustment calculator**
 * And **many more** tools and features to help your brewing!
 
-#### Why Brewfather? {#why-brewfather-}
+## Why Brewfather? {#why-brewfather-}
 
 Brewfather believes designing your recipes and tracking your batches should be easy and fun with easy access from all your devices with no hassle.
 
@@ -38,11 +38,11 @@ Brewfather believes designing your recipes and tracking your batches should be e
 Brewfather strives to cover all your brewing needs in one place, new features are added continuously, [get in touch](https://bitbucket.org/brewfather/brewfather) if you miss any features or find any issues!
 {% endhint %}
 
-#### Home-Screen App Support {#home-screen-app-support}
+## Home-Screen App Support {#home-screen-app-support}
 
 Brewfather can be added to your homescreen on Android and iOS devices to give you the best user experience.
 
-#### Free to try as long as you want! {#free-to-try-as-long-as-you-want-}
+## Free to try as long as you want! {#free-to-try-as-long-as-you-want-}
 
 Brewfather can be **used for free as long as you want** with a few limitations. New users are granted a free 24-day membership of Brewfather Premium with no limitations.
 
@@ -50,21 +50,21 @@ Any of the tools and calculators can be used for free with no limitations as lon
 
 As a Free user your are limited to a maximum number of 10 recipes/batches, and no import or export. If you exceed these limitations you are free to delete any of your recipes or batches, or sign up for Brewfather Premium.
 
-#### Brewfather Premium {#brewfather-premium}
+## Brewfather Premium {#brewfather-premium}
 
 You can sign up for a Premium subscription to unlock unlimited number of recipes/batches and import/export. The Premium subscription costs $1.99 per month or $19.99 annually, and will cover Brewfather's running costs and developement of new features.
 
 {% hint style="info" %}
- To sign up for **Brewfather Premium** - go to your account page in [Brewfather APP](https://web.brewfather.app/) and click **Upgrade to Premium!**
+To sign up for **Brewfather Premium** - go to your account page in [Brewfather APP](https://web.brewfather.app/) and click **Upgrade to Premium!**
 {% endhint %}
 
 All payments and credit card details are handeled securely by [Stripe](https://www.stripe.com/).
 
-#### Author {#author}
+## Author {#author}
 
 Brewfather is made by Thomas Gangsøy from Norway, professional developer, and brewer at heart!
 
-#### Documentation
+## Documentation
 
 {% hint style="info" %}
 The documentation for Brewfather is currently not complete. It is currently in the process of being written.
