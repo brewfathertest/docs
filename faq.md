@@ -18,7 +18,7 @@ Brewfather is also on [Instagram](https://instagram.com/brewfatherapp) and [Twit
 
 Yes,  log out of Brewfather and go to the login screen, write in your email in the email field, and click the "forgot your password?" link. You will then get an email to set your password. After you have set your password you can log in with that email and password combination.  
   
-If you want to change your email-address tied to you account you can do so in the manage account page found by clicking your portrait/email/name in the menu. 
+If you want to change the email-address tied to you account you can do so in the manage account page found by clicking your portrait/email/name in the menu.
 
 ## How do i scale a recipe?
 
