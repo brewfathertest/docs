@@ -12,6 +12,12 @@ description: Be sure to not miss out on new features and improvements!
 
 ### Fixed
 
+* Nothing yet
+
+## 1.1.5 - 15.06.2018 {#coming-soon}
+
+### Fixed {#fixed}
+
 * Fix month not setting correctly when editing batch note time
 * Fix clone/copying recipe not working
 
