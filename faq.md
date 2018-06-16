@@ -14,6 +14,12 @@ Send Brewfather a message [here](https://www.facebook.com/brewfather) or [post i
 
 Brewfather is also on [Instagram](https://instagram.com/brewfatherapp) and [Twitter](https://twitter.com/brewfatherapp).
 
+## Can i convert my Facebook / Google login to username and password?
+
+Yes,  log out of Brewfather and go to the login screen, write in your email in the email field, and click the "forgot your password?" link. You will then get an email to set your password. After you have set your password you can log in with that email and password combination.  
+  
+If you want to change your email-address tied to you account you can do so in the manage account page found by clicking your portrait/email/name in the menu. 
+
 ## How do i scale a recipe?
 
 Easy! Just change batch size or efficiency in your equipment profile within a recipe, click save and it will ask you if you want to scale the recipe to match the new numbers. Also - if you change to another equipment profile it will scale to match it also!
