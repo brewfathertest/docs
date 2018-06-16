@@ -4,7 +4,7 @@ description: Fully-featured app for your brewing needs
 
 # What is Brewfather?
 
-[Go to Brewfather APP](http://web.brewfather.app)
+[Go to Brewfather APP](http://web.brewfather.app)   [Go to Brewfather Main Page](http://brewfather.app)
 
 Brewfather is made from the groud up to give you **the best** recipe design and brewing experience on both **desktop and mobile** devices. With a **modern design** that is easy to use. Get your recipes done in no time! With **automatically synchronisation** between your devices and **offline** support.
 
