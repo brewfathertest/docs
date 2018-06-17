@@ -4,7 +4,7 @@
 
 ### Features
 
-* Nothing yet
+* Brew Timer
 
 ### Fixed
 
