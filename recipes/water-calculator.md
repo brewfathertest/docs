@@ -14,7 +14,7 @@ Go to profiles in the main menu and select Water. Select the default source prof
 
 ## Locate the water calculator
 
-Normally you do not want to start adjusting your water until the rest of your recipe is done. When you have created you recipe and are ready to start adjusting your water you will find the water calculator in the water section of the recipe designer.
+Normally you do not want to start adjusting your water until the rest of your recipe is done. When you have created your recipe and are ready to start adjusting your water you will find the water calculator in the water section of the recipe designer.
 
 ![Click the CALC button to open the water calculator](../.gitbook/assets/image%20%286%29.png)
 
