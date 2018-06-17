@@ -36,7 +36,7 @@ If you use any **crystal**, **roasted** or **acidulated malt**, make sure they a
 
 ![](../.gitbook/assets/image%20%2814%29.png)
 
-You can also ignore the grain, making it not count towards the pH calculation. Usefull if you are just steeping that spesific grain.
+You can also ignore the grain, making it not count towards the pH calculation. Usefull if you are just steeping that specific grain.
 
 ## Water Volumes
 
@@ -46,7 +46,7 @@ Next section shows your water volumes, pulled from your recipe and equipment pro
 
 ## Water Source
 
-Your default water source profile is preselected and should normally not need any alterations if you have already set up your water profile. If you have multiple source water profile, you can click the change button as needed to choose another profile as your source.
+Your default water source profile is preselected and should normally not need any alterations if you have already set up your water profile. If you have multiple source water profiles, you can click the change button as needed to choose another profile as your source.
 
 ![Source Water Profile](../.gitbook/assets/image%20%2811%29.png)
 
@@ -85,6 +85,8 @@ With a click on the auto button you will get a closer match to your target profi
 ![](../.gitbook/assets/image%20%288%29.png)
 
 In this example we got a good match on the values that the activated ingredients adjust and more or less hit our desired Calcium, Magnesium, Chloride and Sulfate levels and our desired Sulfate/Chloride ratio.
+
+Fine tune as needed or manually adjust your values to hit your desired total water profile.
 
 {% hint style="info" %}
 The auto adjustment will not adjust your ingredients so you exceed any of your target profile values. So if you have trouble hitting your desired calcium or sulfate/chloride ratio with the auto adjust feature. Try increasing other target values, to allow for more room.
