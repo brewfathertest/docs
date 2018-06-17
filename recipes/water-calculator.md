@@ -30,7 +30,7 @@ There is a cog icon which allows you to change some settings regarding the water
 
 ![](../.gitbook/assets/image%20%2817%29.png)
 
-The fist section of the water calculator shows your grain bill, and the calculator automatically assings a grain type to it. Verify that the grain and **grain color** matches the grains you will be using, and that the **grain type** is correct.
+The fist section of the water calculator shows your grain bill, and the calculator automatically assigns a grain type to it. Verify that the grain and **grain color** matches the grains you will be using, and that the **grain type** is correct.
 
 If you use any **crystal**, **roasted** or **acidulated malt**, make sure they are assigned the right category as they have a big impact on the estimated pH. Adjust if needed.
 
